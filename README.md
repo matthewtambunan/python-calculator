@@ -1,47 +1,50 @@
-# python-calculator
-A Python calculator project demonstrating basic programming concepts and user input handling.
-Python Calculator
+# Python Calculator
 
-A command-line calculator developed using Python as part of my journey into software engineering and programming.
+A simple command-line calculator developed in Python as a personal learning project.
 
-About the Project
-
-This project is designed to perform basic mathematical calculations through a simple and interactive command-line interface. It demonstrates my understanding of Python fundamentals and my ability to apply programming concepts in a practical project.
-
-Features
+## Features
 
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
 - Division (/)
-- User input handling
-- Conditional statements
-- Basic error handling
+- Repeated calculations using a "while" loop
+- Input validation
+- Error handling for invalid numbers
+- Protection against division by zero
+- Exit option
 
-Technologies Used
+## Python Concepts Practiced
 
-- Python 3
+This project allowed me to practice:
 
-Learning Objectives
-
-Through this project, I aim to improve my understanding of:
-
-- Variables and data types
+- Variables
+- Data types
 - User input and output
-- Arithmetic operators
-- Conditional statements
-- Control flow
-- Error handling
+- Conditional statements ("if", "elif", "else")
+- "while" loops
+- Functions
+- Exception handling ("try" / "except")
+
+## How to Run
+
+1. Make sure Python is installed.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run:
+
+python calculator.py
 
 Future Improvements
 
-- Add a calculation loop
-- Improve input validation
-- Add more mathematical operations
-- Refactor the code into reusable functions
+Possible future improvements include:
 
-Author
+- Creating a graphical user interface (GUI)
+- Improving the user interface
+- Adding more mathematical operations
 
-Matthew Tambunan
+## About
 
-GitHub: "@matthewtambunan" (https://github.com/matthewtambunan)
+This project was created as part of my self-learning journey in Python and software development.
+
+Author: Matthew Tambunan
